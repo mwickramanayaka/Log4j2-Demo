@@ -6,3 +6,7 @@
 [ERROR] 2021-06-02 23:36:42.802 [main] Log4jDemo - This is error message
 [WARN ] 2021-06-02 23:36:42.802 [main] Log4jDemo - This is warn message
 [FATAL] 2021-06-02 23:36:42.803 [main] Log4jDemo - This is fatal message
+[INFO ] 2021-06-03 00:06:59.145 [main] Log4jDemo - This is info message
+[ERROR] 2021-06-03 00:06:59.149 [main] Log4jDemo - This is error message
+[WARN ] 2021-06-03 00:06:59.149 [main] Log4jDemo - This is warn message
+[FATAL] 2021-06-03 00:06:59.150 [main] Log4jDemo - This is fatal message
